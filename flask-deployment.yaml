@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: flask-wine-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: flask-wine-app
+  template:
+    metadata:
+      labels:
+        app: flask-wine-app
+    spec:
+      containers:
+      - name: flask-container
+        image: nsaisumanth97/flask-vis-app:latest
+        ports:
+        - containerPort: 5000

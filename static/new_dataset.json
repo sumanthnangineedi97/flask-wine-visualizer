@@ -1,0 +1,101 @@
+{
+  "name": "Variety TreeMap",
+  "children": [
+    {
+      "name": "Rh\u00f4ne-style White Blend",
+      "value": 101
+    },
+    {
+      "name": "Pinot Gris",
+      "value": 102
+    },
+    {
+      "name": "Pinot Grigio",
+      "value": 123
+    },
+    {
+      "name": "Riesling",
+      "value": 124
+    },
+    {
+      "name": "Malbec",
+      "value": 125
+    },
+    {
+      "name": "Sangiovese",
+      "value": 137
+    },
+    {
+      "name": "Barbera",
+      "value": 140
+    },
+    {
+      "name": "Cabernet Franc",
+      "value": 190
+    },
+    {
+      "name": "White Blend",
+      "value": 193
+    },
+    {
+      "name": "Sparkling Blend",
+      "value": 227
+    },
+    {
+      "name": "Viognier",
+      "value": 234
+    },
+    {
+      "name": "Grenache",
+      "value": 239
+    },
+    {
+      "name": "Rh\u00f4ne-style Red Blend",
+      "value": 311
+    },
+    {
+      "name": "Ros\u00e9",
+      "value": 312
+    },
+    {
+      "name": "Petite Sirah",
+      "value": 371
+    },
+    {
+      "name": "Bordeaux-style Red Blend",
+      "value": 372
+    },
+    {
+      "name": "Merlot",
+      "value": 502
+    },
+    {
+      "name": "Syrah",
+      "value": 908
+    },
+    {
+      "name": "Sauvignon Blanc",
+      "value": 912
+    },
+    {
+      "name": "Red Blend",
+      "value": 1044
+    },
+    {
+      "name": "Zinfandel",
+      "value": 1272
+    },
+    {
+      "name": "Cabernet Sauvignon",
+      "value": 2424
+    },
+    {
+      "name": "Chardonnay",
+      "value": 2469
+    },
+    {
+      "name": "Pinot Noir",
+      "value": 3644
+    }
+  ]
+}
