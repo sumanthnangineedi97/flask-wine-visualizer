@@ -31,6 +31,9 @@ An interactive data visualization web app built using **Flask**, **JavaScript (D
 └── templates
     └── index.html
 ```
+##  🎥  Output
+https://github.com/user-attachments/assets/435e6f6e-ea78-4529-8866-cb9372f65439
+[![Watch Demo](https://img.shields.io/badge/Demo-Video-blue?logo=video)](https://github.com/user-attachments/assets/435e6f6e-ea78-4529-8866-cb9372f65439)
 ---
 
 ## 🚀 Getting Started
