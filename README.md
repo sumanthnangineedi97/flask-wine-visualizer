@@ -3,6 +3,11 @@
 An interactive data visualization web app built using **Flask**, **JavaScript (D3.js)**, and **Kubernetes** for deployment. This project showcases visual insights into wine-related data using multiple charts like bubble, scatter, treemap, etc.
 
 ---
+## 🚀 Deployed on Render
+
+This app is live and hosted using Render — a free cloud platform for deploying web services.
+
+🔗 Live URL https://flask-wine-visualizer.onrender.com
 
 ## 📊 Features
 
@@ -88,4 +93,6 @@ An interactive data visualization web app built using **Flask**, **JavaScript (D
    ```bash
    minikube service flask-service
    ```
+
+
    
